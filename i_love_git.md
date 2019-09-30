@@ -1,1 +1,3 @@
-I LOVE GIT !
+I LOVE GIT !<br>
+
+I can now write in Markdown ...
